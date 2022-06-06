@@ -1,5 +1,7 @@
 # first-project
-
+```
+I tried build simple webpage with VueJS (Options API) as a first try
+```
 ## Project setup
 ```
 npm install
